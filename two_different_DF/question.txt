@@ -1,0 +1,2 @@
+Consider a large dataset (say, a time series) A. Also, consider a smaller dataset B. 
+How do you ensure whether sets A and B identify the same variable? Illustrate it with a Python script.
