@@ -1,1 +1,1 @@
-
+In custom_data file select only two class 0: person , 1 : vehicle
